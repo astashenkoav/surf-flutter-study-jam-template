@@ -19,6 +19,6 @@ class _ChatScreenState extends State<ChatScreen> {
   @override
   Widget build(BuildContext context) {
     // TODO(task): Use ChatRepository to implement the chat.
-    throw UnimplementedError();
+    return Text('');
   }
 }
