@@ -3,7 +3,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:surf_practice_chat_flutter/data/chat/repository/firebase.dart';
 import 'package:surf_practice_chat_flutter/firebase_options.dart';
-import 'package:surf_practice_chat_flutter/screens/chat.dart';
+import 'package:surf_practice_chat_flutter/screens/chat/chat.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
